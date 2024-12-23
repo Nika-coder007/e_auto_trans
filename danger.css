@@ -1,0 +1,125 @@
+a{
+  text-decoration: none;
+}
+.frame-4,
+.frame-4 * {
+  box-sizing: border-box;
+}
+.frame-4 {
+  background: #ffffff;
+  height: 842px;
+  position: relative;
+  overflow: hidden;
+}
+.div {
+  color: #161a1d;
+  text-align: left;
+  font-family: "AlbertSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.75;
+  position: absolute;
+  left: 605px;
+  top: 35px;
+  width: 97px;
+  height: 43px;
+}
+.div2 {
+  color: #161a1d;
+  text-align: left;
+  font-family: "AlbertSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.75;
+  position: absolute;
+  left: 883px;
+  top: 35px;
+  width: 127px;
+  height: 43px;
+}
+.div3 {
+  color: #161a1d;
+  text-align: left;
+  font-family: "AlbertSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.75;
+  position: absolute;
+  left: 1041px;
+  top: 35px;
+  width: 292px;
+  height: 43px;
+}
+.div4 {
+  color: #161a1d;
+  text-align: left;
+  font-family: "AlbertSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.75;
+  position: absolute;
+  left: 733px;
+  top: 35px;
+  width: 119px;
+  height: 43px;
+}
+.rectangle-2 {
+  background: rgba(217, 217, 217, 0.28);
+  border-radius: 30px;
+  width: 689px;
+  height: 627px;
+  position: absolute;
+  left: 103px;
+  top: 147px;
+}
+.div5 {
+  color: #000000;
+  text-align: center;
+  font-family: "AlbertSans-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: absolute;
+  left: 172px;
+  top: 300px;
+  width: 574px;
+  height: 474px;
+}
+.logo-svg {
+  width: 173px;
+  height: 39px;
+  position: absolute;
+  left: 170px;
+  top: 35px;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 689px;
+  height: 124px;
+  position: absolute;
+  left: 103px;
+  top: 147px;
+}
+.div6 {
+  color: #000000;
+  text-align: center;
+  font-family: "AlbertSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  opacity: 0.9;
+  position: absolute;
+  left: 111px;
+  top: 171px;
+  width: 672px;
+}
+.danger {
+  border-radius: 30px;
+  width: 615px;
+  height: 627px;
+  position: absolute;
+  left: 829px;
+  top: 147px;
+  object-fit: cover;
+}
